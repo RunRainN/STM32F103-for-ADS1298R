@@ -1,0 +1,1261 @@
+Dependencies for Project 'exm', Target 'exm': (DO NOT MODIFY !)
+F (.\user\main.c)(0x5B0F967C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_adc.o --omf_browse .\objects\stm32f10x_adc.crf --depend .\objects\stm32f10x_adc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_bkp.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_bkp.o --omf_browse .\objects\stm32f10x_bkp.crf --depend .\objects\stm32f10x_bkp.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_can.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_can.o --omf_browse .\objects\stm32f10x_can.crf --depend .\objects\stm32f10x_can.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_cec.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_cec.o --omf_browse .\objects\stm32f10x_cec.crf --depend .\objects\stm32f10x_cec.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_crc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_crc.o --omf_browse .\objects\stm32f10x_crc.crf --depend .\objects\stm32f10x_crc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dac.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_dac.o --omf_browse .\objects\stm32f10x_dac.crf --depend .\objects\stm32f10x_dac.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dbgmcu.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_dbgmcu.o --omf_browse .\objects\stm32f10x_dbgmcu.crf --depend .\objects\stm32f10x_dbgmcu.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dma.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_dma.o --omf_browse .\objects\stm32f10x_dma.crf --depend .\objects\stm32f10x_dma.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_exti.o --omf_browse .\objects\stm32f10x_exti.crf --depend .\objects\stm32f10x_exti.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_flash.o --omf_browse .\objects\stm32f10x_flash.crf --depend .\objects\stm32f10x_flash.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_fsmc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_fsmc.o --omf_browse .\objects\stm32f10x_fsmc.crf --depend .\objects\stm32f10x_fsmc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x4D79EEC6)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_i2c.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_i2c.o --omf_browse .\objects\stm32f10x_i2c.crf --depend .\objects\stm32f10x_i2c.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_iwdg.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_iwdg.o --omf_browse .\objects\stm32f10x_iwdg.crf --depend .\objects\stm32f10x_iwdg.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_pwr.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_pwr.o --omf_browse .\objects\stm32f10x_pwr.crf --depend .\objects\stm32f10x_pwr.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rtc.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_rtc.o --omf_browse .\objects\stm32f10x_rtc.crf --depend .\objects\stm32f10x_rtc.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_sdio.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_sdio.o --omf_browse .\objects\stm32f10x_sdio.crf --depend .\objects\stm32f10x_sdio.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_spi.o --omf_browse .\objects\stm32f10x_spi.crf --depend .\objects\stm32f10x_spi.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_tim.o --omf_browse .\objects\stm32f10x_tim.crf --depend .\objects\stm32f10x_tim.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_wwdg.c)(0x4D783BB4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\stm32f10x_wwdg.o --omf_browse .\objects\stm32f10x_wwdg.crf --depend .\objects\stm32f10x_wwdg.d)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\gpio.c)(0x57CBED50)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\systick.c)(0x57ECE4A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+F (..\..\wenchao_lib\drive\uart.c)(0x59912F80)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+F (..\..\wenchao_lib\drive\nvic.c)(0x57ED07D4)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\nvic.o --omf_browse .\objects\nvic.crf --depend .\objects\nvic.d)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\exti.c)(0x57ECE370)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\exti.o --omf_browse .\objects\exti.crf --depend .\objects\exti.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\iwdg.c)(0x57ECE4F0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\iwdg.o --omf_browse .\objects\iwdg.crf --depend .\objects\iwdg.d)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\spi.c)(0x57ECE0AE)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\nrf2401.c)(0x5930E10E)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\nrf2401.o --omf_browse .\objects\nrf2401.crf --depend .\objects\nrf2401.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\timer.c)(0x57ED07B0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\adc.c)(0x580E4FEC)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\complement_filter.c)(0x57F132FA)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\complement_filter.o --omf_browse .\objects\complement_filter.crf --depend .\objects\complement_filter.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\i2c.c)(0x58022118)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\kalman.c)(0x57F13102)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\kalman.o --omf_browse .\objects\kalman.crf --depend .\objects\kalman.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\mpu6050_basic.c)(0x57F1BB0A)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\mpu6050_basic.o --omf_browse .\objects\mpu6050_basic.crf --depend .\objects\mpu6050_basic.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\my_math.c)(0x57E890D8)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\my_math.o --omf_browse .\objects\my_math.crf --depend .\objects\my_math.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\quaternion_fix.c)(0x57ED4042)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\quaternion_fix.o --omf_browse .\objects\quaternion_fix.crf --depend .\objects\quaternion_fix.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+F (..\..\wenchao_lib\drive\iic_ssd1306.c)(0x5803A55A)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\iic_ssd1306.o --omf_browse .\objects\iic_ssd1306.crf --depend .\objects\iic_ssd1306.d)
+I (..\..\wenchao_lib\inc\sysinc.h)(0x5AF10EDA)
+I (..\..\wenchao_lib\inc\uart.h)(0x5976AD92)
+I (D:\keil5\keil\ARM\ARMCC\include\stdio.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\nvic.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (D:\keil5\keil\ARM\ARMCC\include\stdbool.h)(0x52FDD27E)
+I (..\..\wenchao_lib\inc\gpio.h)(0x58033FD8)
+I (..\..\wenchao_lib\inc\systick.h)(0x58034086)
+I (..\..\wenchao_lib\inc\exti.h)(0x57ECE284)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\iwdg.h)(0x58034086)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\spi.h)(0x58034086)
+I (..\..\wenchao_lib\inc\nrf2401.h)(0x58034086)
+I (..\..\wenchao_lib\inc\timer.h)(0x58034086)
+I (..\..\wenchao_lib\inc\adc.h)(0x58033FE8)
+I (..\..\wenchao_lib\inc\i2c.h)(0x58033FF0)
+I (..\..\wenchao_lib\inc\mpu6050_basic.h)(0x58034086)
+I (..\..\wenchao_lib\inc\kalman.h)(0x57F1E640)
+I (..\..\wenchao_lib\inc\my_math.h)(0x57E7C5C2)
+I (..\..\wenchao_lib\inc\complemen_filter.h)(0x5803423C)
+I (..\..\wenchao_lib\inc\quaternion_fix.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883.h)(0x58034106)
+I (..\..\wenchao_lib\inc\hmc5883+mpu6050+kalman.h)(0x58034106)
+I (..\..\wenchao_lib\inc\pid.h)(0x58034106)
+I (..\..\wenchao_lib\inc\four_axis_aircraft.h)(0x58034106)
+I (..\..\wenchao_lib\inc\iic_ssd1306.h)(0x5AF10F00)
+I (..\..\wenchao_lib\inc\common_filter.h)(0x580349E8)
+I (..\..\wenchao_lib\inc\dac_0832_chip.h)(0x580DBC12)
+I (..\..\wenchao_lib\inc\four_axis_remote_control.h)(0x583D4334)
+I (D:\keil5\keil\ARM\ARMCC\include\math.h)(0x52FDD27E)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x4D783BB4)
+I (..\..\wenchao_lib\inc\matrix.h)(0x58024458)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x52431878)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x4F1E2E3C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\wenchao_lib\inc -I..\..\core-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE-I F:\stm32\例程zhangwenchao\project\8.adc实验\RTE\Device\STM32F103C8-I D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\ARMCC\include\stdint.h)(0x52FDD27E)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BA6374)
+I (D:\keil5\keil\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C1E62)
+I (D:\keil5\keil\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\..\wenchao_lib\inc\stm32f10x_conf.h)(0x57B1B0D0)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\..\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4D783BB4)
